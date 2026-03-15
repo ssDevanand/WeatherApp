@@ -1,0 +1,178 @@
+{"data":{
+    "dates": [
+        "2026-03-15",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20"
+    ],
+    "WeatherInfo": [
+        {
+            "city": "Chennai",
+            "day1": {
+                "AvgTemp": 25.39,
+                "MinTemp": 23.26,
+                "MaxTemp": 31.68
+            },
+            "day2": {
+                "AvgTemp": 29.14,
+                "MinTemp": 23.07,
+                "MaxTemp": 32.28
+            },
+            "day3": {
+                "AvgTemp": 28.04,
+                "MinTemp": 24.31,
+                "MaxTemp": 32.27
+            },
+            "day4": {
+                "AvgTemp": 27.53,
+                "MinTemp": 21.69,
+                "MaxTemp": 31.69
+            },
+            "day5": {
+                "AvgTemp": 26.4,
+                "MinTemp": 21.91,
+                "MaxTemp": 29.69
+            },
+            "day6": {
+                "AvgTemp": 27.69,
+                "MinTemp": 23.87,
+                "MaxTemp": 30.37
+            }
+        },
+        {
+            "city": "Bangalore",
+            "day1": {
+                "AvgTemp": 23.09,
+                "MinTemp": 20.36,
+                "MaxTemp": 31.37
+            },
+            "day2": {
+                "AvgTemp": 28.52,
+                "MinTemp": 19.98,
+                "MaxTemp": 33.03
+            },
+            "day3": {
+                "AvgTemp": 24.52,
+                "MinTemp": 19.13,
+                "MaxTemp": 32.38
+            },
+            "day4": {
+                "AvgTemp": 24.78,
+                "MinTemp": 18.6,
+                "MaxTemp": 31.43
+            },
+            "day5": {
+                "AvgTemp": 24.27,
+                "MinTemp": 18.81,
+                "MaxTemp": 30.67
+            },
+            "day6": {
+                "AvgTemp": 26.35,
+                "MinTemp": 18.81,
+                "MaxTemp": 31.66
+            }
+        },
+        {
+            "city": "Surat",
+            "day1": {
+                "AvgTemp": 25.76,
+                "MinTemp": 23.13,
+                "MaxTemp": 36.33
+            },
+            "day2": {
+                "AvgTemp": 30.91,
+                "MinTemp": 22.29,
+                "MaxTemp": 35.34
+            },
+            "day3": {
+                "AvgTemp": 27.47,
+                "MinTemp": 22,
+                "MaxTemp": 34.82
+            },
+            "day4": {
+                "AvgTemp": 27.41,
+                "MinTemp": 21.42,
+                "MaxTemp": 34.77
+            },
+            "day5": {
+                "AvgTemp": 28.45,
+                "MinTemp": 22.57,
+                "MaxTemp": 34.26
+            },
+            "day6": {
+                "AvgTemp": 28.77,
+                "MinTemp": 22.53,
+                "MaxTemp": 33.76
+            }
+        },
+        {
+            "city": "Jaipur",
+            "day1": {
+                "AvgTemp": 22.11,
+                "MinTemp": 17.08,
+                "MaxTemp": 34.05
+            },
+            "day2": {
+                "AvgTemp": 26.99,
+                "MinTemp": 16.6,
+                "MaxTemp": 32.96
+            },
+            "day3": {
+                "AvgTemp": 24.97,
+                "MinTemp": 18.59,
+                "MaxTemp": 31.85
+            },
+            "day4": {
+                "AvgTemp": 25.3,
+                "MinTemp": 19.45,
+                "MaxTemp": 32.68
+            },
+            "day5": {
+                "AvgTemp": 21.46,
+                "MinTemp": 18.15,
+                "MaxTemp": 28.67
+            },
+            "day6": {
+                "AvgTemp": 19.13,
+                "MinTemp": 14.34,
+                "MaxTemp": 21.38
+            }
+        },
+        {
+            "city": "Lucknow",
+            "day1": {
+                "AvgTemp": 21.45,
+                "MinTemp": 19.18,
+                "MaxTemp": 31
+            },
+            "day2": {
+                "AvgTemp": 27.48,
+                "MinTemp": 18.54,
+                "MaxTemp": 32.03
+            },
+            "day3": {
+                "AvgTemp": 26.4,
+                "MinTemp": 18.44,
+                "MaxTemp": 34.1
+            },
+            "day4": {
+                "AvgTemp": 28,
+                "MinTemp": 19.23,
+                "MaxTemp": 35.71
+            },
+            "day5": {
+                "AvgTemp": 27.93,
+                "MinTemp": 20.38,
+                "MaxTemp": 36.14
+            },
+            "day6": {
+                "AvgTemp": 25.15,
+                "MinTemp": 18.41,
+                "MaxTemp": 29.63
+            }
+        }
+    ]
+}
+}
